@@ -1,9 +1,10 @@
 # irhagram-kdr
 Script FiveM (ESX) - Rasio Kill dan Death
+``
 DILARANG UNTUK MENJUAL BELIKAN SCRIPT INI,
 KAMU BISA BERDONASI DENGAN CARA MEMBANTU MEMPERBAIKI SCRIPT INI,
 contact saya di discord anoni4m#6817
-
+``
 
 v1.3 - Commit Pertama
 -------------------------
