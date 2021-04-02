@@ -1,0 +1,3 @@
+ALTER TABLE `users`
+	ADD COLUMN `bunuh` INT(11) NULL DEFAULT '0',
+	ADD COLUMN `mati` INT(11) NULL DEFAULT '0' AFTER `bunuh`;
