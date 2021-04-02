@@ -15,3 +15,12 @@ OnPlayerKilled - Ketika Player Source membunuh: belum dilakukan test, jadi belum
 HUD menunjukkan Rasio Kill/Death sudah aman (update setiap 5 detik)
 ```
 
+Tutorial
+-------------------------
+
+```
+1. Masukkan Query SQL yang sudah aku buat ke DB kamu
+2. start resource pada server.cfg kamu "start irhagram-kdr"
+3. GGWP, tutor kelar.
+```
+
